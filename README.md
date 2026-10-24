@@ -37,8 +37,5 @@
 2. Fans of creative animation and comic books.
 3. Viewers looking for a fun movie with an encouraging message.
 
-[Learn more on the Sony Pictures website](https://www.sonypictures.com/movies/spidermanintothespiderverse)
 
 ---
-
-*This README was updated as a Markdown practice exercise.*
